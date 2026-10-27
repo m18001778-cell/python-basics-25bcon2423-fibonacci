@@ -1,31 +1,31 @@
-Fibonacci Sequence Generator
+# Fibonacci Sequence Generator
 
 A simple Python program that generates and prints the Fibonacci sequence for 10 terms.
 
-Features
+## Features
 
 Generates the Fibonacci sequence using an iterative approach.
 Uses a configurable n value to control the number of terms.
 Simple and easy-to-understand Python implementation.
 Prints the sequence directly to the console.
 
-Installation
+## Installation
 
-Clone the repository:
+1. Clone the repository:
 
     git clone <repository-url>
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
     cd <repository-directory>
 
-Requirements
+## Requirements
 
 Python
 
 No external libraries are required.
 
-Usage
+## Usage
 
 Run the Python program using:
 
@@ -33,7 +33,7 @@ Run the Python program using:
 
 The number of terms is controlled by the n value in the program.
 
-Example
+## Example
 
 The program currently uses:
 
@@ -43,6 +43,6 @@ This is intended to generate the first 10 Fibonacci terms:
 
     0 1 1 2 3 5 8 13 21 34
 
-License
+## License
 
 No license has been specified for this project.
