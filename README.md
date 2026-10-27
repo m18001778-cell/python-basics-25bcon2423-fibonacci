@@ -13,11 +13,11 @@ Installation
 
 Clone the repository:
 
-git clone <repository-url>
+    git clone <repository-url>
 
 Navigate to the project directory:
 
-cd <repository-directory>
+    cd <repository-directory>
 
 Requirements
 
@@ -29,7 +29,7 @@ Usage
 
 Run the Python program using:
 
-python fibonacci.py
+    python fibonacci.py
 
 The number of terms is controlled by the n value in the program.
 
@@ -37,11 +37,11 @@ Example
 
 The program currently uses:
 
-n = 10
+    n = 10
 
 This is intended to generate the first 10 Fibonacci terms:
 
-0 1 1 2 3 5 8 13 21 34
+    0 1 1 2 3 5 8 13 21 34
 
 License
 
